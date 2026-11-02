@@ -12,7 +12,7 @@ and a text editor with syntax highlighting, e.g.:
 
 [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-## Local construction process:
+## Local construction process
 
 1. Check Python SDK (`python --version`)
 
@@ -22,10 +22,10 @@ and a text editor with syntax highlighting, e.g.:
 
 4. run the chosen source file
 
-## Source explanation
+## Sources
 
-CoG.py - center of gravity (concept)
-CoG2.py - center of gravity calculation with realistic coordinates
-salesman.py - TSP problem (concept)
-salesman_CoG.py - TSP based on CoG and euclid (aerial) distances
-salesman_CoG2.py - TSP based on CoG, road distances and fuel consumption of trucks
+- CoG.py - center of gravity (concept)
+- CoG2.py - center of gravity calculation with realistic coordinates
+- salesman.py - TSP problem (concept)
+- salesman_CoG.py - TSP based on CoG and euclid (aerial) distances
+- salesman_CoG2.py - TSP based on CoG, road distances and fuel consumption of trucks

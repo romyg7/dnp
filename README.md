@@ -2,6 +2,10 @@
 
 The traveling salesman problem (TSP) is a popular starting point to distribution network planning and route optimization in logistice. It is combined with the Center of Gravity (CoG) problem to provide a complete solution for a distribution network design problem. 
 
+CoG = (ΣW × x) / ΣW
+
+The center of gravity for a distribution network of nodes is calculated using the formula above, where W is the total (e.g. monthly) weight of each warehouse node's cargo and x is its distance from the reference point.
+
 ## Prerequisites 
 
 Software development kits (SDK):

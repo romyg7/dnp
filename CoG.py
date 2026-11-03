@@ -1,7 +1,7 @@
 # Seznam strank/trgovin z njihovimi X, Y koordinatami in količino tovora (v tonah)
 trgovine = [
     {"ime": "Ljubljana", "x": 46.05, "y": 14.50, "tovor": 150},
-    {"ime": "Maribor",   "x": 46.55, "y": 15.64, "tovor": 500},
+    {"ime": "Maribor",   "x": 46.55, "y": 15.64, "tovor": 90},
     {"ime": "Celje",     "x": 46.23, "y": 15.26, "tovor": 60},
     {"ime": "Koper",     "x": 45.54, "y": 13.73, "tovor": 110},
     {"ime": "Novo mesto","x": 45.80, "y": 15.17, "tovor": 40}
